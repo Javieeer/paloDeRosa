@@ -250,10 +250,10 @@ footer .container {
     }
 
     .figureEspecial img {
-        width: 70%;
+        width: 80%;
     }
 
-    .rosas {
+    .leyenda {
         display: none;
     }
 
@@ -277,6 +277,10 @@ footer .container {
 
     footer .container {
         text-align: center;
+    }
+
+    .container {
+        width: 90%;
     }
 }
 
