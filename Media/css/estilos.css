@@ -14,7 +14,7 @@ figure {
 }
 
 header {
-    background-color: #922782;
+    background-color: #9C1C34;
     width: 100%;
     height: auto;
 }
@@ -30,14 +30,14 @@ figure .tanga {
 .hero {
     width: 100%;
     height: auto;
-    background: rgba(194,0,94,1);
-    background: -moz-linear-gradient(left, rgba(194,0,94,1) 0%, rgba(238,226,228,0.93) 100%);
-    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(194,0,94,1)), color-stop(100%, rgba(238,226,228,0.93)));
-    background: -webkit-linear-gradient(left, rgba(194,0,94,1) 0%, rgba(238,226,228,0.93) 100%);
-    background: -o-linear-gradient(left, rgba(194,0,94,1) 0%, rgba(238,226,228,0.93) 100%);
-    background: -ms-linear-gradient(left, rgba(194,0,94,1) 0%, rgba(238,226,228,0.93) 100%);
-    background: linear-gradient(to right, rgba(194,0,94,1) 0%, rgba(238,226,228,0.93) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c2005e', endColorstr='#eee2e4', GradientType=1 );
+    background: rgba(219,127,161,1);
+background: -moz-linear-gradient(left, rgba(219,127,161,1) 0%, rgba(248,226,226,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(219,127,161,1)), color-stop(100%, rgba(248,226,226,1)));
+background: -webkit-linear-gradient(left, rgba(219,127,161,1) 0%, rgba(248,226,226,1) 100%);
+background: -o-linear-gradient(left, rgba(219,127,161,1) 0%, rgba(248,226,226,1) 100%);
+background: -ms-linear-gradient(left, rgba(219,127,161,1) 0%, rgba(248,226,226,1) 100%);
+background: linear-gradient(to right, rgba(219,127,161,1) 0%, rgba(248,226,226,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#db7fa1', endColorstr='#f8e2e2', GradientType=1 );
 }
 
 .figureEspecial {
@@ -49,7 +49,7 @@ figure .leyenda {
 }
 
 figure .rosas {
-    width: 25%;
+    width: 40%;
 }
 
 .body {
@@ -71,7 +71,7 @@ figure .rosas {
 }
 
 .contenedorTexto {
-    width: 75%;
+    width: 65%;
     margin: 0 auto;
     padding: 5px;
     border: 1px solid gray;
@@ -86,7 +86,7 @@ figure .rosas {
 }
 
 .contenedorTexto p {
-    margin: 5px auto;
+    margin: 5px 20%;
 }
 
 .contenedorTexto a {
@@ -99,7 +99,7 @@ figure .rosas {
 }
 
 .quienesSomos {
-    font-family: cabin, Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .name {
@@ -131,13 +131,13 @@ figure .rosas {
 
 form h3 {
     color: white;
-    font-family: cabin, Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     margin: 3% 0;
 }
 
 form h4 {
     color: white;
-    font-family: cabin, Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     margin: 3% 0;
 }
 
@@ -166,12 +166,12 @@ footer {
 
 footer .container p {
     font-family: Cabin, Arial, Helvetica, sans-serif;
-    color: white;
+    color: #AAA;
     font-weight: bold;
 }
 
 footer a {
-    color: #AAA;
+    color: white;
     text-decoration: none;
 }
 
