@@ -60,6 +60,8 @@ figure .rosas {
 
 .productos {
     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
 }
 
 .body .container h1 {
@@ -68,6 +70,7 @@ figure .rosas {
 
 .body .container .productos article {
     font-family: Arial, Helvetica, sans-serif;
+    width: 33%;
 }
 
 .contenedorTexto {
@@ -83,10 +86,6 @@ figure .rosas {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-}
-
-.contenedorTexto p {
-    margin: 5px 20%;
 }
 
 .contenedorTexto a {
