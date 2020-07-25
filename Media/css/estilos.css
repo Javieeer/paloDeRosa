@@ -68,6 +68,11 @@ figure .rosas {
     font-family: anton, Arial, Helvetica, sans-serif;
 }
 
+.body .container p {
+    font-family: 'Open Sans', sans-serif;
+    margin: 10px auto;
+}
+
 .body .container .productos article {
     font-family: Arial, Helvetica, sans-serif;
     width: 33%;
