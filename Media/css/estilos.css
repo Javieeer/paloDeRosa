@@ -202,10 +202,6 @@ footer .container {
         width: 100%;
     }
 
-    .contenedorTexto {
-        top: -50px;
-    }
-
     .contenedorTexto p {
         margin: 2% 0;
     }
@@ -256,6 +252,10 @@ footer .container {
         display: none;
     }
 
+    .body .container .productos article {
+        width: 45%;
+    }
+
     .pie {
         flex-wrap: wrap;
         justify-content: center;
@@ -284,5 +284,7 @@ footer .container {
 }
 
 @media screen and (max-width: 320px) {
-    
+    .body .container .productos article {
+        width: 90%;
+    }
 }
